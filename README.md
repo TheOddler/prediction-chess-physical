@@ -142,7 +142,7 @@ but the other piece moves to a different position:
 
 Even though black attacked, no battle takes place.
 This is because white moved away,
-so the towers do not end up in the same position.
+so the pieces do not end up in the same position.
 
 Predictions are irrelevant here, since no battle took place.
 
@@ -183,13 +183,13 @@ This means the king is safe, and black does not win this turn.
 
 ### Tricking the king
 
-White expects black to attack with their tower,
+White expects black to attack with their rook,
 so white moves their king away to save it.
-However, black actually moves their rook:
+However, black actually moves their bishop to meet the king:
 
 ![Tricking the king](tricking-the-king.png)
 
-As a result, a battle happens between the king and rook.
+As a result, a battle happens between the king and bishop.
 Since the king always looses in a battle, black wins the game.
 
 Instead, white should have moved their king to a different position:
