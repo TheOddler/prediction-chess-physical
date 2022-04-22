@@ -26,18 +26,18 @@ A turn goes as follows:
 
 <!-- TODO: An icon for each step -->
 
-1. **Plan and predict**: Each player plans their own move, and predicts their opponent's
+1. 📜 **Plan and predict**: Each player plans their own move, and predicts their opponent's
     * Do this by writing your move and prediction on your piece of paper
     * Make sure your opponent cannot see what you write down
     * You can plan and predict any legal chess move
         * Excluding castling
         * For pawns this gets a bit strange, see below for more information
-2. **Reveal**: At the same time, both players reveal their move and prediction
+2. 🎊 **Reveal**: At the same time, both players reveal their move and prediction
     * Do this by simultaneously placing your papers next to the board
-3. **Move**: Both planned moves are executed on the main board at the same time
+3. 👣 **Move**: Both planned moves are executed on the main board at the same time
     * Do this by moving both pieces as planned to their destination tile
     * This might result in two pieces occupying the same tile, that is fine and we will handle that in the **battle** step
-4. **Battle**: Resolve the battles
+4. ⚔️ **Battle**: Resolve the battles
     * See below
 
 If at any point the king is taken, that player looses.
@@ -46,7 +46,7 @@ rather than just getting a check mate.
 
 For more details and examples see below.
 
-## Battle
+## ⚔️ Battle
 
 There are two cases when a battle will take place:
 
