@@ -273,6 +273,12 @@ The following move by white is **not** allowed:
 Since there is no piece for white to attack,
 white can only move forward, and not diagonally.
 
+# House rules
+
+The following are some good defaults for some common rules.
+Consider these house rules, and you can change them if you want,
+but let players know beforehand.
+
 ## Castling
 
 Castling is not allowed.
@@ -280,3 +286,12 @@ Castling is not allowed.
 ## Promoting
 
 As in normal chess, a pawn is promoted when it reaches to other side of the board.
+You can promote to any piece you've lost.
+
+Alternative: You can also always allow promotion to a queen,
+but you'll need additional queen pieces for this.
+
+## Moving two pawns one space
+
+In some countries it's sometimes considered a legal move to move two pawns one space if neither has moved yet.
+This is not considered a legal move here.
