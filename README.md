@@ -24,8 +24,6 @@ This means that when trying to take an opponent's piece, they might take your pi
 
 A turn goes as follows:
 
-<!-- TODO: An icon for each step -->
-
 1. 📜 **Plan and predict**: Each player plans their own move, and predicts their opponent's
     * Do this by writing your move and prediction on your piece of paper
     * Make sure your opponent cannot see what you write down
